@@ -4,11 +4,9 @@ A Chrome extension that adds a "Search with Perplexity" option to your browser's
 
 ## Installation
 
-### From Chrome Web Store (Coming Soon)
+### From Chrome Web Store
 
-1. Visit the Chrome Web Store
-2. Search for "Perplexity Context Menu Search"
-3. Click "Add to Chrome"
+[https://chromewebstore.google.com/detail/perplexity-context-menu-s/jnccjknnfgcglcfpdkikjmelpphaahme](https://chromewebstore.google.com/detail/perplexity-context-menu-s/jnccjknnfgcglcfpdkikjmelpphaahme)
 
 ### Manual Installation
 
